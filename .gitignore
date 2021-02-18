@@ -1,0 +1,4 @@
+.DS_Store
+.venv
+cities/worldcitiespop1.csv
+cities/worldcitiespop2.csv
